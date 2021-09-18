@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nghiep95
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Javascript, Python, VBA
